@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-11-16T03:15:50.770573394Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-11-16T03:34:14.346855055Z",
     "templateType": "trip_b",
     "propertyId": "01a166b4-4df0-776a-926f-11f4bf416e42",
     "homepageId": "01a1e209-ed8a-7e0d-90d1-e970e9e968ce"
@@ -171,7 +171,7 @@
       {
         "id": "01a1e203-4adf-75ac-af20-c808cb92b6e1",
         "name": "텃밭",
-        "description": "",
+        "description": "햇살 아래 자라는 채소들이 바람에 가볍게 흔들립니다.\n텃밭을 천천히 둘러보며 싱그러운 풀내음을 느껴 보세요.",
         "usageGuide": "",
         "displayOrder": 3,
         "images": [
@@ -1526,7 +1526,107 @@
       },
       "property": {
         "name": "양양펜션 더미소",
-        "images": [ ],
+        "images": [
+          {
+            "id": "01a1e26b-6ac3-7288-8319-5ac459b4e853",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_thumbnail/1794800052629-vfcgwulko1.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "01a1e26b-6b81-77af-98b0-711e28017be6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052627-wdqiyoy8xx.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a1e26b-6bac-7de7-abde-01bfd42f6902",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052626-2hqcdspao1.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a1e26b-6b7a-7934-8488-2de7f802feba",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052623-io62n1qnmu.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a1e26b-6ad6-7602-8804-6a0ac8b58250",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052634-ducvclvnu5.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a1e26b-6abe-7eab-b9f5-f296450e7054",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052630-kpnxmdhqvb.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a1e26b-6acf-77bf-8ed1-ba66ca760993",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052629-o7u6s8igkt.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a1e26b-6b9d-72c4-a1d1-f290793b00d4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052632-ik1woywbib.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a1e26b-6acc-7122-b1ce-3cc7cc558bf9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052629-6fmfe4lm76.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a1e26b-6ab0-7dc0-a1ba-6189efebd06d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052630-8ajaa69c21.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a1e26b-6a8d-77e9-bce8-e72cbf1da48f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/property_exterior/1794800052627-8bgcufrpjz.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Yangyang Pension The Miso"
       },
       "roomtypes": [
