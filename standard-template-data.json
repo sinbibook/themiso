@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-11-16T03:11:48.473053100Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-11-16T03:15:50.770573394Z",
     "templateType": "trip_b",
     "propertyId": "01a166b4-4df0-776a-926f-11f4bf416e42",
     "homepageId": "01a1e209-ed8a-7e0d-90d1-e970e9e968ce"
@@ -27,7 +27,7 @@
     "province": "도/시",
     "city": "시/군/구",
     "domain": "themiso.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/13754",
     "ybsId": "",
     "tripPropertyId": "13754",
     "partnerType": "distributor_b",
@@ -961,8 +961,8 @@
       {
         "logo": [
           {
-            "id": "01a1e242-56a2-729f-9d4f-c2cad31308b8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/logo/1794797360429-kc2dkjg8oq.png",
+            "id": "01a1e25a-918f-759f-b4d8-5eab73313f69",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/logo/1794798947754-f1hgrdw37d.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
