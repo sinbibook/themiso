@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-16T02:25:06.934908754Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-16T02:27:46.468278104Z",
     "templateType": "trip_b",
     "propertyId": "01a166b4-4df0-776a-926f-11f4bf416e42",
     "homepageId": "01a1e209-ed8a-7e0d-90d1-e970e9e968ce"
@@ -1418,7 +1418,10 @@
             "family": "amandine"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#FFFBF0",
+          "secondary": "#000000"
+        }
       },
       "property": {
         "name": "양양펜션 더미소",
