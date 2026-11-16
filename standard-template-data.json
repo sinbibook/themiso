@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-11-16T03:00:51.457916428Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-11-16T03:07:35.920535758Z",
     "templateType": "trip_b",
     "propertyId": "01a166b4-4df0-776a-926f-11f4bf416e42",
     "homepageId": "01a1e209-ed8a-7e0d-90d1-e970e9e968ce"
@@ -1403,7 +1403,7 @@
                     }
                   ],
                   "blockId": "2ed56929-fa10-4b3b-ab7c-6dc82e127824",
-                  "description": ""
+                  "description": "양양펜션 더미소 주변의 나무들은 계절마다 다른 빛을 띱니다.\n잠시 밖으로 나와 맑은 공기를 들이마시고,\n오늘의 풍경을 천천히 눈에 담아 보세요."
                 }
               ]
             }
