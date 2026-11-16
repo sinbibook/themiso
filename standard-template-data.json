@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-11-16T03:07:35.920535758Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-11-16T03:11:48.473053100Z",
     "templateType": "trip_b",
     "propertyId": "01a166b4-4df0-776a-926f-11f4bf416e42",
     "homepageId": "01a1e209-ed8a-7e0d-90d1-e970e9e968ce"
@@ -1094,7 +1094,7 @@
                 "description": ""
               },
               "closing": {
-                "title": "",
+                "title": "Healing Place",
                 "images": [
                   {
                     "id": "01a1e232-166b-7db3-bb1c-e8d0c84a007a",
@@ -1133,7 +1133,7 @@
                 "description": ""
               },
               "gallery": {
-                "title": "",
+                "title": "Rest&Healing",
                 "images": [
                   {
                     "id": "01a1e232-1694-73fc-b846-c0c42c698a37",
