@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-11-16T02:33:26.525438600Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-11-16T02:49:22.296977935Z",
     "templateType": "trip_b",
     "propertyId": "01a166b4-4df0-776a-926f-11f4bf416e42",
     "homepageId": "01a1e209-ed8a-7e0d-90d1-e970e9e968ce"
@@ -959,7 +959,16 @@
     "templateType": "trip_b",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "01a1e242-56a2-729f-9d4f-c2cad31308b8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e209-ed8a-7e0d-90d1-e970e9e968ce/logo/1794797360429-kc2dkjg8oq.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
